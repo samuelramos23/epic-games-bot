@@ -33,8 +33,8 @@ Nunca coloque o token no código, em prints ou em conversas.
 
 ## 3. Testar o envio real
 
-    export TELEGRAM_TOKEN="8569310351:AAH_S-dS-SoHvSoRWi021TC5TLWrpjwP0Zg"
-    export TELEGRAM_CHAT_ID="6986324379"
+    export TELEGRAM_TOKEN="SEU_TOKEN_AQUI"
+    export TELEGRAM_CHAT_ID="SEU_CHAT_ID_AQUI"
     python main.py
 
 ## 4. Deixar rodando de graça (GitHub Actions)
